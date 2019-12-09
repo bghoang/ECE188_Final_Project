@@ -5,7 +5,7 @@
 
 ## Abstract Proposal
 
-We revisited GAN concept that we learned in class. For the last project, Christina applied Cycle GAN to create convert an image to black and white color. We think that we can improve this by using CartoonGAN data to create our own videos and gif in cartoon style. The video we chose is from something that we are interested in. For the presentation, we will show the original video and the result video after we apply the chances.
+We revisited GAN concept that we learned in class. For the last project, Christina applied Cycle GAN to create convert an image to black and white color. We think that we can improve this by using CartoonGAN data to create our own videos or gif in cartoon style. The video we chose is from something that we are interested in. For the presentation, we will show the original video and the result video after we apply the chances.
 
 ## Project Report
 
@@ -32,19 +32,14 @@ Our code for generating your project:
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-
-- What you include here will very much depend on the format of your final project
-  - image files (`.jpg`, `.png` or whatever else is appropriate)
-  - 3d models
-  - movie files (uploaded to youtube or vimeo due to github file size limits)
-  - audio files
-  - ... some other form
+- Output video: https://photos.app.goo.gl/7k45XjYhknJgDKEz6
+- Result Images: inside result folder
 
 ## Technical Notes
 
 - Users will need to install ffmpeg on their devices in order to convert a video into frames.
 - The code will be run on Colab so there is no need to install any other packages.
+- Make sure to check the location of the data is correct.
 
 ## Reference
 
