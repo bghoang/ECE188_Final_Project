@@ -1,7 +1,7 @@
 # Final Project
 
-Bao Hoang, bghoang@ucsd.edu
-Christina Ho, cgh003@ucsd.edu
+- Bao Hoang, bghoang@ucsd.edu
+- Christina Ho, cgh003@ucsd.edu
 
 ## Abstract Proposal
 
