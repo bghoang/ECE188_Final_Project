@@ -32,7 +32,12 @@ Our code for generating your project:
 
 ## Results
 
-- Output video: https://photos.app.goo.gl/7k45XjYhknJgDKEz6
+- Output video:
+  - shinkai: https://photos.app.goo.gl/vhYvzZNEFycyshf67
+  - hayao: https://photos.app.goo.gl/HHoEnbuwhpNtaeA88
+  - hosoda: https://photos.app.goo.gl/6mXYCt8NuNWrxBRu8
+  - paprika: https://photos.app.goo.gl/jtD9uyfn71ALwMvM9
+  - All:
 - Result Images: inside result folder
 
 ## Technical Notes
