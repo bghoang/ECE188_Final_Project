@@ -1,32 +1,39 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
-
-(Your teammates' contact info, if appropriate)
+Bao Hoang, bghoang@ucsd.edu
+Christina Ho, cgh003@ucsd.edu
 
 ## Abstract Proposal
 
-FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+We revisited GAN concept that we learned in class. For the last project, Christina applied Cycle GAN to create convert an image to black and white color. We think that we can improve this by using CartoonGAN data to create our own videos and gif in cartoon style. The video we chose is from something that we are interested in. For the presentation, we will show the original video and the result video after we apply the chances.
 
 ## Project Report
 
-Upload your project report (4 pages) as a pdf with your repository, following this template: [google docs](https://drive.google.com/open?id=1mgIxwX1VseLyeM9uPSv5GJQgRWNFqtBZ0GKE9d4Qxww).
+Check out our report [here](https://docs.google.com/document/d/1D8AJgdcwLGdO_kYwHW0fsYsd_ovtDYRDgn7zMnhWW9k/edit?usp=sharing)
 
 ## Model/Data
 
 Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+
+- trained models: [CartoonGAN (CVPR 2018)](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
+- Input data: inside the data folder
+- Output data: inside the result folder
+- Input video: https://photos.google.com/share/AF1QipO2lAm3YxYaVjQylySfGOBrwf0nuO26W-Garc4vL9sKN7TBn0jYa2RROruehzpWFA?key=T0paQ1RyeHY1Nk1aWnpXYVpzdVRzMTFZUzFyNFl3
+- Output video: https://photos.app.goo.gl/7k45XjYhknJgDKEz6
 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+Our code for generating your project:
+
+- Script file:
+  - run.sh to split a video into each pictures
+  - video.sh to combine all pictures into a video
+- Google Colab: https://colab.research.google.com/drive/1K1VoCvnV7_ahqIbbAwO5VO3l-rXbLPvq?fbclid=IwAR2zr2c8mYc3N5ni4R7eRwvIO9wCmrQ9q3dNvd6EsEc2HEMBnweKyatsP54
 
 ## Results
 
 Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
+
 - What you include here will very much depend on the format of your final project
   - image files (`.jpg`, `.png` or whatever else is appropriate)
   - 3d models
@@ -36,13 +43,13 @@ Documentation of your results in an appropriate format, both links to files and 
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+- Users will need to install ffmpeg on their devices in order to convert a video into frames.
+- The code will be run on Colab so there is no need to install any other packages.
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+References to any papers, techniques, repositories we used:
+
+- Paper: http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf
+- Repositories: https://github.com/mnicnc404/CartoonGan-tensorflow
+- Blog posts: https://leemeng.tw/generate-anime-using-cartoongan-and-tensorflow2-en.html
