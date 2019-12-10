@@ -26,23 +26,25 @@ Briefly describe the files that are included with our repository:
 Our code for generating your project:
 
 - Script file: run.sh, video.sh
-- Google Colab: https://colab.research.google.com/drive/1K1VoCvnV7_ahqIbbAwO5VO3l-rXbLPvq?fbclid=IwAR2zr2c8mYc3N5ni4R7eRwvIO9wCmrQ9q3dNvd6EsEc2HEMBnweKyatsP54
+- Jupyter Notebook: CartoonGAN.ipynb
 
 ## Results
 
 - Original video: https://photos.app.goo.gl/9LkE1GmHiPZQtDWo9
 - Output video:
+
   - shinkai: https://photos.app.goo.gl/vhYvzZNEFycyshf67
   - hayao: https://photos.app.goo.gl/HHoEnbuwhpNtaeA88
   - hosoda: https://photos.app.goo.gl/6mXYCt8NuNWrxBRu8
   - paprika: https://photos.app.goo.gl/jtD9uyfn71ALwMvM9
-  - All:
+  - Combine all: https://photos.app.goo.gl/T878Z3inynrfce6c9
+
 - Result Images: inside result folder
 
 ## Technical Notes
 
 - Users will need to install ffmpeg on their devices in order to convert a video into frames.
-- The code will be run on Colab so there is no need to install any other packages.
+- The code can be run on Colab or Jupyter Notebook so there is no need to install any other packages.
 - Make sure to check the location of the data is correct.
 
 ## Reference
