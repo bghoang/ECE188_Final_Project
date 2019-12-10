@@ -13,25 +13,24 @@ Check out our report [here](https://docs.google.com/document/d/1D8AJgdcwLGdO_kYw
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
+Briefly describe the files that are included with our repository:
 
 - trained models: [CartoonGAN (CVPR 2018)](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_CartoonGAN_Generative_Adversarial_CVPR_2018_paper.pdf)
 - Input data: inside the data folder
 - Output data: inside the result folder
-- Input video: https://photos.google.com/share/AF1QipO2lAm3YxYaVjQylySfGOBrwf0nuO26W-Garc4vL9sKN7TBn0jYa2RROruehzpWFA?key=T0paQ1RyeHY1Nk1aWnpXYVpzdVRzMTFZUzFyNFl3
-- Output video: https://photos.app.goo.gl/7k45XjYhknJgDKEz6
+- run.sh to split a video into each pictures
+- video.sh to combine all pictures into a video
 
 ## Code
 
 Our code for generating your project:
 
-- Script file:
-  - run.sh to split a video into each pictures
-  - video.sh to combine all pictures into a video
+- Script file: run.sh, video.sh
 - Google Colab: https://colab.research.google.com/drive/1K1VoCvnV7_ahqIbbAwO5VO3l-rXbLPvq?fbclid=IwAR2zr2c8mYc3N5ni4R7eRwvIO9wCmrQ9q3dNvd6EsEc2HEMBnweKyatsP54
 
 ## Results
 
+- Original video: https://photos.app.goo.gl/9LkE1GmHiPZQtDWo9
 - Output video:
   - shinkai: https://photos.app.goo.gl/vhYvzZNEFycyshf67
   - hayao: https://photos.app.goo.gl/HHoEnbuwhpNtaeA88
