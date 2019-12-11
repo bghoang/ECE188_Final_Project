@@ -4,7 +4,7 @@
 - Christina Ho, cgh003@ucsd.edu
 
 ## Abstract Proposal
-                                            ![](Apollo-paprika.gif)
+![](https://github.com/ucsd-ml-arts/ml-art-final-christina_bao/blob/master/result/Apollo-paprika.gif)
 
 We revisited GAN concept that we learned in class. For the last project, Christina applied Cycle GAN to create convert an image to black and white color. We think that we can improve this by using CartoonGAN data to create our own videos or gif in cartoon style. The video we chose is from something that we are interested in. For the presentation, we will show the original video and the result video after we apply the chances.
 
