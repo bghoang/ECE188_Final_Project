@@ -5,6 +5,7 @@
 
 ## Abstract Proposal
 <p align="center">
+  <img src="https://github.com/ucsd-ml-arts/ml-art-final-christina_bao/blob/master/data/Apollo%2015%20-%2010%20Seconds%20Launch%2010s%20-%2020s%20236%20(CyvAiibGvj8).gif">
   <img src="https://github.com/ucsd-ml-arts/ml-art-final-christina_bao/blob/master/result/Apollo-paprika.gif">
 </p>
 
