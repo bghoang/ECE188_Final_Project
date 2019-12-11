@@ -4,7 +4,9 @@
 - Christina Ho, cgh003@ucsd.edu
 
 ## Abstract Proposal
-
+<p align="center">
+  <img src="https://github.com/ucsd-ml-arts/ml-art-final-christina_bao/blob/master/result/Apollo-paprika.gif">
+</p>
   ![](https://github.com/ucsd-ml-arts/ml-art-final-christina_bao/blob/master/result/Apollo-paprika.gif)
 
 
