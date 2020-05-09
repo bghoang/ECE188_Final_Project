@@ -1,0 +1,1 @@
+ffmpeg -i avenger.mp4 -vf fps=12 data/thumb%04d.jpg -hide_banner
